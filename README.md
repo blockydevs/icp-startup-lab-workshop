@@ -55,7 +55,6 @@ This is a menu view which shows deployed canisters and by selecting one of it yo
 
 For running Candid UI in this extension we changed authentication functionality by removing authentitcating user in Internet Identity canister and instead we added set of 10 random identities in Candid UI which are ready to use. They are generated from the same seed phrase `during nut robust trouble drip question series endless hurry upper track cost time bone crunch gorilla cause peasant fantasy prison banana toy toward mean` and with changed derivation path for next ones. Also we added functions to expand this set which are
 
-1. **Add new identity** - adds new random identity from the seed phrase pasted above
-2. **New identity from seed phrase** - adds new identity from the seed phrase given by user
-3. **New identity from private key** - adds new identity from private key given by user
-4. 
+- **Add new identity** - adds new random identity from the seed phrase pasted above
+- **New identity from seed phrase** - adds new identity from the seed phrase given by user
+- **New identity from private key** - adds new identity from private key given by user
